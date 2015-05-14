@@ -1,0 +1,2 @@
+0.1.0
+  - everything needed for a chrome extension
