@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+@font-face {
+  font-family: "Microsoft YaHei";
+  src: local('Microsoft YaHei');
+  unicode-range: U+2E80-FFFF;
+  /*unicode-range: U+4E00-9FFF;*/
+}
+@font-face {
+  font-family: SimSun;
+  src: local(SimSun);
+  unicode-range: U+2E80-FFFF;
+  /*unicode-range: U+4E00-9FFF;*/
+}
+
+* {
+  font-family: STXihei, "Microsoft YaHei", SimSun,
+  "Open Sans", Helvetica, Tahoma, Arial, sans-serif !important;
+}
+
+pre *, code *, textarea *, tt *, kbd *, samp *, source * {
+  font-family: "Courier New", monospace !important;
+}

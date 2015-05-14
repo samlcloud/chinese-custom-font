@@ -1,0 +1,5 @@
+.*
+!.gitignore
+*.sublime-project
+*.sublime-workspace
+development.notes
